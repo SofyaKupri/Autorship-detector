@@ -1,0 +1,8 @@
+authors:
+  Jane Austen: [austen-emma.txt, austen-persuasion.txt, austen-sense.txt]
+  G. K. Chesterton: [chesterton-ball.txt, chesterton-brown.txt, chesterton-thursday.txt]
+  William Shakespeare: [shakespeare-caesar.txt, shakespeare-hamlet.txt, shakespeare-macbeth.txt]
+
+chunk_words: 2000
+top_words: 150
+cache_dir: books
